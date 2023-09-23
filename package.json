@@ -1,0 +1,18 @@
+{
+  "name": "frontend-interview-prep-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Arseniy Pomazkov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.18.3",
+    "nodemon": "^3.0.1",
+    "random-js": "^2.1.0"
+  }
+}
